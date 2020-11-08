@@ -5,7 +5,7 @@ baseurl: ''
 # compass configuration
 compass:
   # an avatar or logo (optional)
-  logo: "/images/compass.png"
+  logo: "/images/covid_molecule.png"
   # author will appear under the avatar (optional)
   author: "What is the evidence for transmission of COVID-19 by children in schools?"
   # tagline will appear under the title (optional)
